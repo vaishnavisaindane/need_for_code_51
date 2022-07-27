@@ -1,0 +1,3 @@
+Que ID,Exam ID,question,images,option 1,option 2,option 3,option 4,correct_ans,unit num,unit_name
+2,1,DBMS fullform,noimg.png,database management system,data,system,database management system,2222,1,3
+3,1,not a outer join,noimg.png,left,right,full,half,half,1,3
